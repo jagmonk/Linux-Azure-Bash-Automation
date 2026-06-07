@@ -1,0 +1,9 @@
+.env
+*.secret
+*.key
+*.pem
+*.pfx
+reports/
+*.log
+*.token
+.DS_Store
